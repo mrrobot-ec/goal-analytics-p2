@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Poetry
+__pypackages__/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment variable file
+.env
+
+# Editor specific files/directories
+.idea/
+.vscode/
+
+# Other generated files
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.h5
+
+# Ignore local settings (if applicable and sensitive)
+local_settings.py
